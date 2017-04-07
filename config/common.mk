@@ -173,7 +173,7 @@ include vendor/bliss/config/themes_common.mk
 
 # RomStats
 PRODUCT_PACKAGES += \
-    RomStats
+    BlissStats
 
 # Screen recorder
 PRODUCT_PACKAGES += \
